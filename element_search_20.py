@@ -5,7 +5,7 @@ an appropriate boolean.
 Extras:
 Use binary search.
 '''
-
+# Here I'm taking unsorted input and then sorting the list
 
 def user_input():
     num_list = input("Enter list of numbers, seperated by spaces: ").split()
