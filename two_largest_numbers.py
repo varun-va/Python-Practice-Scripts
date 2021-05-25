@@ -1,3 +1,6 @@
+'''
+    Script to find the 2 largest numbers in a list
+'''
 #nums = (47,11,42,102,13)
 #a = [int(x) for x in nums.split()]
 #print a
